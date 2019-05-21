@@ -3,7 +3,7 @@ I'm just trying to understand the ROM structure... and sharing my work
 
 This is an example of the first run of the tool 
 
-
+```
 kf@mac ~/Desktop/RomBINS/Naomi1 $ ruby test.rb 18_Wheeler_STD.bin 
 Reading values from 18_Wheeler_STD.bin:
 -----------------------------------------------------------------------------
@@ -42,5 +42,5 @@ ROM Capacity
 Start: ["00000000"]
 End: ["000020c0"]
 Ram address: ["00000300"]
-
+```
 
